@@ -8,12 +8,11 @@ This repository contains Python-based simulations, design equations, and example
 
 ## ⚗️ GATE Chemical Engineering Syllabus:  Chemical Reaction Engineering
 
-- Reaction rate theories, homogeneous kinetics
-- Kinetic data interpretation, single/multiple reactions
-- Enzyme kinetics: Michaelis-Menten, Monod
-- Non-ideal reactors: RTD, dispersion, tank-in-series
-- Heterogeneous catalysis, diffusion effects
-- Catalyst deactivation and performance equations
+Theories of reaction rates; kinetics of homogeneous reactions, interpretation of kinetic data, single 
+and multiple reactions in ideal reactors, kinetics of enzyme reactions (Michaelis-Menten and Monod 
+models), non-ideal reactors; residence time distribution, single parameter model; non-isothermal 
+reactors; kinetics of heterogeneous catalytic reactions; diffusion effects in catalysis; rate and 
+performance equations for catalyst deactivation
 
 ## 📘 Course Topics
 
