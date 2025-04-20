@@ -5,7 +5,15 @@ This repository contains Python-based simulations, design equations, and example
  
 📺 [YouTube – Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
 
----
+
+## ⚗️ GATE Chemical Engineering Syllabus:  Chemical Reaction Engineering
+
+- Reaction rate theories, homogeneous kinetics
+- Kinetic data interpretation, single/multiple reactions
+- Enzyme kinetics: Michaelis-Menten, Monod
+- Non-ideal reactors: RTD, dispersion, tank-in-series
+- Heterogeneous catalysis, diffusion effects
+- Catalyst deactivation and performance equations
 
 ## 📘 Course Topics
 
